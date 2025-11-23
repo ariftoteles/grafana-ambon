@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "name 1 edit",
+      "value": "value 1",
+      "createdAt": "2025-11-21T14:50:04.719Z",
+      "updatedAt": "2025-11-21T14:50:16.300Z"
+    },
+    {
+      "id": 2,
+      "name": "name 2 edit",
+      "value": "value 2",
+      "createdAt": "2025-11-21T14:51:35.683Z",
+      "updatedAt": "2025-11-21T15:03:14.844Z"
+    }
+  ]
+}

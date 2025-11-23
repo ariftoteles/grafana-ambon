@@ -1,0 +1,14 @@
+{
+  "productName": "Grafana Service API",
+  "version": "1.0.0",
+  "licenseKey": "R1JBRkFOQS0xNzY2MzcyMDExMjc5LTAuNjgyNTEzNjg3OTU5NDE0Nw==",
+  "issuedDate": "2025-11-22T02:53:31.279Z",
+  "expirationDate": "2025-12-22T02:53:31.279Z",
+  "status": "active",
+  "licensedTo": "Client User",
+  "features": [
+    "api_access",
+    "database_storage",
+    "pm2_support"
+  ]
+}

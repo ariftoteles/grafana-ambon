@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "name": "grafana-exe",
+      "script": "./grafana-service.exe",
+      "cwd": "./",
+      "instances": 1,
+      "exec_mode": "fork",
+      "watch": false,
+      "max_memory_restart": "150M",
+      "autorestart": true,
+      "max_restarts": 3,
+      "min_uptime": "3s",
+      "restart_delay": 1000,
+      "interpreter": "none"
+    }
+  ]
+}
