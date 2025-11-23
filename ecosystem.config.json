@@ -10,19 +10,19 @@
       "max_memory_restart": "200M",
       "env": {
         "NODE_ENV": "production",
-        "PORT": 3000
+        "PORT": 5000
       },
       "env_development": {
         "NODE_ENV": "development", 
-        "PORT": 3000
+        "PORT": 5000
       },
       "env_staging": {
         "NODE_ENV": "staging",
-        "PORT": 3001
+        "PORT": 5000
       },
       "env_production": {
         "NODE_ENV": "production",
-        "PORT": 3000
+        "PORT": 5000
       },
       "log_date_format": "YYYY-MM-DD HH:mm Z",
       "error_file": "./logs/err.log",
