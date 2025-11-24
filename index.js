@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Routes
-app.use('/ambon/items', dataRoutes);
+app.use('/items', dataRoutes);
 
 // Route default
 app.get('/', (req, res) => {
